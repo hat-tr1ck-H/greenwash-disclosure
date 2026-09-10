@@ -1,0 +1,87 @@
+{
+  "n_companies": 199,
+  "zero_carbon": 97,
+  "coverage_pct": 51.3,
+  "median_carbon": 1,
+  "with_hard_numbers": 4,
+  "soft_only": 97,
+  "by_industry": [
+    {
+      "industry": "Energy & Utilities",
+      "n": 22,
+      "carbon_mean": 8.18,
+      "soft_mean": 14.5,
+      "zero_pct": 13.6
+    },
+    {
+      "industry": "Financials",
+      "n": 6,
+      "carbon_mean": 6.33,
+      "soft_mean": 15,
+      "zero_pct": 50.0
+    },
+    {
+      "industry": "Steel & Materials",
+      "n": 4,
+      "carbon_mean": 3.75,
+      "soft_mean": 7.75,
+      "zero_pct": 25.0
+    },
+    {
+      "industry": "Real Estate & Construction",
+      "n": 13,
+      "carbon_mean": 3.38,
+      "soft_mean": 10.15,
+      "zero_pct": 53.8
+    },
+    {
+      "industry": "Chemicals",
+      "n": 20,
+      "carbon_mean": 2.9,
+      "soft_mean": 12.4,
+      "zero_pct": 35.0
+    },
+    {
+      "industry": "Industrials",
+      "n": 18,
+      "carbon_mean": 2.39,
+      "soft_mean": 9.56,
+      "zero_pct": 50.0
+    },
+    {
+      "industry": "Other",
+      "n": 31,
+      "carbon_mean": 2.16,
+      "soft_mean": 8.65,
+      "zero_pct": 48.4
+    },
+    {
+      "industry": "TMT & Electronics",
+      "n": 37,
+      "carbon_mean": 1.7,
+      "soft_mean": 9.97,
+      "zero_pct": 51.4
+    },
+    {
+      "industry": "Consumer",
+      "n": 26,
+      "carbon_mean": 0.77,
+      "soft_mean": 9.73,
+      "zero_pct": 65.4
+    },
+    {
+      "industry": "Healthcare & Pharma",
+      "n": 19,
+      "carbon_mean": 0.47,
+      "soft_mean": 9.84,
+      "zero_pct": 68.4
+    },
+    {
+      "industry": "Agriculture",
+      "n": 3,
+      "carbon_mean": 0,
+      "soft_mean": 5.67,
+      "zero_pct": 100.0
+    }
+  ]
+}

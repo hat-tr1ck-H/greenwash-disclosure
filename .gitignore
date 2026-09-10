@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# macOS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Raw filings are NOT redistributed (re-downloaded by src/01_harvest.py)
+data/raw/*.pdf
